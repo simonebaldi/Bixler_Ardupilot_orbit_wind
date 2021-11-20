@@ -14,3 +14,5 @@ Stefano Farì, “Guidance and control for a fixed-wing UAV”, MSc Thesis for A
 (supervised by dr. Simone Baldi at Delft Center for Systems ad Control, TU Delft). Then, the code has been improved by dr. Simone Baldi at Southeast University together with mr. Kang Yang.
 
 In this version of the code, the fixed-wing UAV is requested to loiter around a point in the presence of wind. 
+
+The code has been tested in Matlab R2019b. Compatibility with other Matlab version is not guaranteed.
